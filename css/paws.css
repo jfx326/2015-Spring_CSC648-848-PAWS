@@ -1,0 +1,19 @@
+body {
+    background: url('../img/bg-pawprints.jpg');
+}
+
+#logo {
+    position: absolute;
+    top: -12px;
+    left: -12px;
+}
+
+#logo-small {
+    position: absolute;
+    top: 7px;
+    left: -4px;
+}
+
+.no-top-margin {
+    margin-top: 0;
+}
